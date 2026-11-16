@@ -1,0 +1,9 @@
+id: BUG-001
+type: bug
+status: open
+severity: high
+scope: local
+found_in: build-reports/20260820-seed.md
+summary: Fixture bug
+created: 2026-08-20
+updated: 2026-08-20

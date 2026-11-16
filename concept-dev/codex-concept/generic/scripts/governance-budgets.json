@@ -1,0 +1,26 @@
+{
+  "hot": {
+    "max_lines": 200,
+    "max_bytes": 20000,
+    "paths": [
+      "CLAUDE.md",
+      "AGENTS.md",
+      "STATUS.md",
+      "PROTOCOL.md",
+      "QUEUE.md"
+    ]
+  },
+  "warm": {
+    "max_lines": 500,
+    "max_bytes": 80000,
+    "patterns": [
+      "governance/adr/*.md",
+      "governance/specs/*.md",
+      "governance/contracts/*.md",
+      "governance/units/*.md",
+      "work/*/PLAN.md"
+    ]
+  },
+  "section_max_lines_without_subheading": 150,
+  "sync_max_age_days": 45
+}
