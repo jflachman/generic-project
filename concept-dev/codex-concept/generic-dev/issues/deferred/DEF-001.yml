@@ -1,0 +1,9 @@
+id: DEF-001
+type: deferred
+status: deferred
+severity: low
+scope: local
+found_in: build-reports/20260820-seed-scaffold.md
+summary: CI wiring waits until the instantiated repository exists.
+created: 2026-08-20
+updated: 2026-08-20

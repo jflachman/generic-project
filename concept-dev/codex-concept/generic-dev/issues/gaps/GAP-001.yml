@@ -1,0 +1,9 @@
+id: GAP-001
+type: gap
+status: open
+severity: low
+scope: local
+found_in: build-reports/20260820-seed-scaffold.md
+summary: Instantiation automation is not part of the first scaffold.
+created: 2026-08-20
+updated: 2026-08-20

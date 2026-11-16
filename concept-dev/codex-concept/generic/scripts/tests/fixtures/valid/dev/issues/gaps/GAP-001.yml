@@ -1,0 +1,9 @@
+id: GAP-001
+type: gap
+status: open
+severity: medium
+scope: local
+found_in: build-reports/20260820-seed.md
+summary: Fixture gap
+created: 2026-08-20
+updated: 2026-08-20

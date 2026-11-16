@@ -1,0 +1,5 @@
+id: 001-seed
+title: Seed Scaffold
+purpose: Establish the baseline two-repo template scaffold without project-specific code.
+status: closed
+depends_on: []

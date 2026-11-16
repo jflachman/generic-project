@@ -1,0 +1,3 @@
+default: governance/INDEX.md
+scaffold: governance/specs/SPEC-001-scaffold.md
+check_governance: governance/contracts/CONTRACT-001-governance-check.md

@@ -1,0 +1,9 @@
+id: REQ-001
+type: upstream
+status: open
+severity: medium
+scope: upstream
+found_in: build-reports/20260820-seed.md
+summary: Fixture upstream request
+created: 2026-08-20
+updated: 2026-08-20

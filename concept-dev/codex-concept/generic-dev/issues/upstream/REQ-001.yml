@@ -1,0 +1,9 @@
+id: REQ-001
+type: upstream
+status: open
+severity: low
+scope: upstream
+found_in: build-reports/20260820-seed-scaffold.md
+summary: Future template packaging should provide mechanical rename and token replacement.
+created: 2026-08-20
+updated: 2026-08-20
